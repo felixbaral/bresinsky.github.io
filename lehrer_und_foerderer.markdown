@@ -2,6 +2,8 @@
 layout: page
 title: Akademische Lehrer und Förderer
 permalink: /lehrer_und_forderer/
+section: 2
+order: 1
 ---
 
 

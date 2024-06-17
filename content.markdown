@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Content
+title: Content 1
 permalink: /content/
+section: 1
+order: 1
 ---
 
 ## International meeting on fungi provides wonderful science 
