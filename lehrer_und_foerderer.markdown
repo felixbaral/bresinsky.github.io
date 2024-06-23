@@ -2,14 +2,12 @@
 layout: page
 title: Akademische Lehrer und Förderer
 permalink: /lehrer_und_forderer/
-section: 2
-order: 1
+section: 1
+sektion_buchstabe: A
+order: 2
 ---
 
-
-
 ## A2) Akademische Lehrer und Förderer
-
 
 ![alt-text-1]({{site.baseurl}}/assets/img/maegdefrau.jpeg){: style="display: inline; height: 8cm;"}
 ![alt-text-2]({{site.baseurl}}/assets/img/merxmueller.png){: style="display: inline; height: 8cm;"}

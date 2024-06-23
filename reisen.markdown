@@ -1,9 +1,10 @@
 ---
 layout: page
-title:  A6) Reisen (für Forschung und Bildung)
+title:  Reisen (für Forschung und Bildung)
 permalink: /reisen/
-section: 6
-order: 1
+section: 1
+order: 6
+sektion_buchstabe: A
 ---
 
 

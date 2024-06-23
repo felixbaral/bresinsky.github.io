@@ -21,23 +21,24 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <ul>
-        {% assign sections = site.pages | sort: 'section' | group_by: 'section' %}
-        {% for section in sections %}
-          {% if section.name != '' %}
-            {% assign items = section.items | sort: 'order' %}
-            <li><a href="{{ items[0].url }}">{{ items[0].title }}</a></li>
-            <ul>
-              {% for page in items %}
-                {% if page.order > 1 %}
-                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-          {% endif %}
-        {% endfor %}
-        </ul>
 
+        <ul>
+          {% assign sections = site.pages | sort: 'section' | group_by: 'section' %}
+          {% for section in sections %}
+            {% if section.name != '' %}
+              {% assign items = section.items | sort: 'order' %}
+              <li><a href="{{ items[0].url }}">{{ items[0].title }} <span class="kuerzel">->{{ items[0].sektion_buchstabe }}</span></a></li>
+              <ul>
+                {% for page in items %}
+                  {% if page.order > 1 %}
+                  <li><a href="{{ page.url }}">{{ page.title }} <span class="kuerzel">->{{ page.sektion_buchstabe }}{{ page.order}}</span></a></li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            {% endif %}
+          {% endfor %}
+          </ul>
+  
       </header>
       <section>
 

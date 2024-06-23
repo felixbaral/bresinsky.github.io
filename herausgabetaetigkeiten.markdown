@@ -1,9 +1,10 @@
 ---
 layout: page
-title:  A4) Herausgebertätigkeiten
+title:  Herausgebertätigkeiten
 permalink: /herausgebertaetigkeiten/
-section: 4
-order: 1
+section: 1
+order: 4
+sektion_buchstabe: A
 ---
 
 ## A4) Herausgebertätigkeiten

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: A7) Vegebene und betreute Doktorarbeiten
+title: Vegebene und betreute Doktorarbeiten
 permalink: /doktorarbeiten/
-section: 7
-order: 1
+section: 1
+order: 7
+sektion_buchstabe: A
 ---
 
 

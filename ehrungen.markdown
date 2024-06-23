@@ -1,9 +1,10 @@
 ---
 layout: page
-title: A5) Ehrungen
+title: Ehrungen
 permalink: /ehrungen/
-section: 5
-order: 1
+section: 1
+order: 5
+sektion_buchstabe: A
 ---
 
 ## A5) Ehrungen
