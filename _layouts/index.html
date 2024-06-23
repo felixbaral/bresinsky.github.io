@@ -21,6 +21,23 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <ul>
+        {% assign sections = site.pages | sort: 'section' | group_by: 'section' %}
+        {% for section in sections %}
+          {% if section.name != '' %}
+            {% assign items = section.items | sort: 'order' %}
+            <li><a href="{{ items[0].url }}">{{ items[0].title }}</a></li>
+            <ul>
+              {% for page in items %}
+                {% if page.order > 1 %}
+                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          {% endif %}
+        {% endfor %}
+        </ul>
+
       </header>
       <section>
 
@@ -31,7 +48,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
