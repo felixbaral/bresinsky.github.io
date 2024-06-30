@@ -4,7 +4,6 @@ title: Bilder aus meinem Leben 1958, 1978
 permalink: /bilder_aus_dem_leben/
 section: 1
 order: 3
-sektion_buchstabe: A
 
 ---
 

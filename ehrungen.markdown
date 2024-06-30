@@ -4,7 +4,6 @@ title: Ehrungen
 permalink: /ehrungen/
 section: 1
 order: 5
-sektion_buchstabe: A
 ---
 
 ## A5) Ehrungen

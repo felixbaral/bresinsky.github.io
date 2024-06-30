@@ -4,7 +4,6 @@ title:  Herausgebertätigkeiten
 permalink: /herausgebertaetigkeiten/
 section: 1
 order: 4
-sektion_buchstabe: A
 ---
 
 ## A4) Herausgebertätigkeiten

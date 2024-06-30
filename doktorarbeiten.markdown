@@ -4,7 +4,6 @@ title: Vegebene und betreute Doktorarbeiten
 permalink: /doktorarbeiten/
 section: 1
 order: 7
-sektion_buchstabe: A
 ---
 
 

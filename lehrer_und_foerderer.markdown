@@ -3,7 +3,6 @@ layout: page
 title: Akademische Lehrer und Förderer
 permalink: /lehrer_und_forderer/
 section: 1
-sektion_buchstabe: A
 order: 2
 ---
 

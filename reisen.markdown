@@ -4,7 +4,6 @@ title:  Reisen (für Forschung und Bildung)
 permalink: /reisen/
 section: 1
 order: 6
-sektion_buchstabe: A
 ---
 
 
