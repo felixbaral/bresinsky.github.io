@@ -19,7 +19,11 @@
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+          {% endif %}
+          
+        <img src="{{site.baseurl}}/assets/img/bresinsky_by_helmut_wanner.jpeg" alt="title" />
+
+        Bildquelle: <a href="https://www.mittelbayerische.de/archiv/1">www.mittelbayerische.de</a> - Foto Helmut Wanner
 
 
         <ul>
@@ -27,11 +31,14 @@
           {% for section in sections %}
             {% if section.name != '' %}
               {% assign items = section.items | sort: 'order' %}
-              <li><a href="{{ items[0].url }}">{{ items[0].title }} <span class="kuerzel">->{{ items[0].sektion_buchstabe }}</span></a></li>
+              {% assign sectionindex = items[0].section | minus: 1 %}
+              {% assign sectiontitle = site.data.variables.sections[sectionindex] %}
+              {% assign sectionkuerzel = site.data.variables.section_kuerzels[sectionindex] %}
+              <li><a href="{{ items[0].url }}">{{ sectiontitle }} <span class="kuerzel">-> {{ sectionkuerzel }}</span></a></li>
               <ul>
                 {% for page in items %}
                   {% if page.order > 1 %}
-                  <li><a href="{{ page.url }}">{{ page.title }} <span class="kuerzel">->{{ page.sektion_buchstabe }}{{ page.order}}</span></a></li>
+                  <li><a href="{{ page.url }}">{{ page.title }} <span class="kuerzel">->{{ sectionkuerzel }}{{ page.order}}</span></a></li>
                   {% endif %}
                 {% endfor %}
               </ul>
