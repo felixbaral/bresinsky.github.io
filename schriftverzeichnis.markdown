@@ -270,7 +270,7 @@ Bresinsky A. (2014): Botaniker erkunden Bayern. Rückschau und Ausblick 100 Jahr
 
 Bresinsky A. (2014): Franz Vollmann und seine Flora von Bayern. Zum 100-jährigen Vollmann-Jubiläum. Hoppea, Denkschr. Reg. Bot. Ges. 75: 7-18 
 
-#### D3) Schriftenverzeichnis **ab 2015**: 
+#### D3) Schriftenverzeichnis **ab <u>2015</u>**: 
 
 Bresinsky A. (2015): Bayerns Flora – gestern, heute und morgen – Gedanken zum  Natur- und Artenschutz aus Anlass des Ankaufes von Flächen vor 100 Jahren auf der Garchinger Haide. Ber. Bayer. Bot. Ges. 85: 9-18 
 
