@@ -2,3 +2,38 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.inhalt {
+    font-size: large;
+    font-weight: bold;
+    padding-left: 0;
+}
+
+.inhalt ul {
+    margin-bottom: 0pt;
+}
+
+ul.inhalt li {
+    padding-bottom: 0pt;
+    margin-bottom: 6pt;
+    margin-top: 6pt;
+}
+
+.inhalt li ul {
+    padding-left: 10pt;
+}
+
+ul.inhalt ul li {
+    margin-top: 0pt;
+    margin-bottom: 4pt;
+}
+
+
+.inhalt li {
+    list-style: none;
+    padding-left: 0;
+}
+
+.inhalt a span.kuerzel {
+    float: right;
+}
