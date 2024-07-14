@@ -34,12 +34,15 @@
               {% assign sectionindex = items[0].section | minus: 1 %}
               {% assign sectiontitle = site.data.variables.sections[sectionindex] %}
               {% assign sectionkuerzel = site.data.variables.section_kuerzels[sectionindex] %}
-              <li><a href="{{ items[0].url }}">{{ sectiontitle }} <span class="kuerzel">-> {{ sectionkuerzel }}</span></a></li>
+
+              <!-- {{section}} -->
+              
+              <li><a href="{{site.baseurl}}{{ items[0].url }}">{{ sectiontitle }} <span class="kuerzel">-> {{ sectionkuerzel }}</span></a></li>
               {% if section.size > 1 %}
-                <ul>
-                  {% for page in items %}
-                    {% if page.order > 1 %}
-                    <li><a href="{{ page.url }}">{{ page.title }} <span class="kuerzel">->{{ sectionkuerzel }}{{ page.order}}</span></a></li>
+              <ul>
+                {% for page in items %}
+                {% if page.order > 0 %}
+                    <li><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }} <span class="kuerzel">->{{ sectionkuerzel }}{{ page.order}}</span></a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>
@@ -55,10 +58,8 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages</small></p>
+        Adresse TODO
+
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
