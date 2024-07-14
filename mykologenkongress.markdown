@@ -11,19 +11,26 @@ order: 1
 **Vertretene Länder mit Teilnehmerzahlen**<br>
 Ägypten (8).- Algerien (2).- Argentinien (3).- Australien (34).- Belgien (16).- Brasilien (18).- Bulgarien (1).- China (14).- Costa Rica (3).- Cuba (2).- Dänemark (22).- Deutschland, BRD (311).- Deutschland, DDR (25).- Finnland (25).- Frankreich (57).- Griechenland (3).- Großbritannien (150).- Honkong (2).- Indien (70).- Iran (15).- Irak (8).- Irland (5).- Island (1).- Israel (19).- Italien (34).- Japan (69).- Jugoslawien (13).- Kanada (48).- Korea (18).- Luxemburg (2).- Malaysia (5).- Mexiko (10).- Niederlande (60).- Neuseeland (6).- Nigeria (4).- Norwegen (13).- Österreich (26).- Pakistan (1).- Philippinen (4).- Polen (13).- Portugal (12).- Puerto Rico (1).- Rumänien (1).- Sambia (1).- Schweden (49).- Schweiz (49).- Simbabwe (1).- Singapur (3).- Spanien (44).- Sri Lanka (1).- Südafrika (20).- Taiwan (19).- Tansania (1).- Thailand (8).- Tschechien (23).- Ungarn (18).- USA (187).- USSR; Russland, Ukraine, Baltische Staaten etc. (31).- Venezuela (2).
 
-![alt-text-1]({{site.baseurl}}/assets/img/frontiers_mycology.jpeg){: style="display: inline; height: 10cm;"}
-![alt-text-1]({{site.baseurl}}/assets/img/Hawksworh.jpeg){: style="display: inline; height: 10cm;"}
+<span class="images">
+![alt-text-1]({{site.baseurl}}/assets/img/frontiers_mycology.jpeg){: style="height: 10cm;"}
+![alt-text-1]({{site.baseurl}}/assets/img/Hawksworh.jpeg){: style="height: 10cm;"}
+</span>
 
+<div class="borderedbox">
 Handschriftliche Widmung des Herausgebers D.L. Hawksworh für Andreas Bresinsky im Rahmen eines Berichtes über den Internationalen Mykologenkongress in Regenesburg 1990, IMC 4
-
+</div>
+<span class="images">
 ![alt-text-1]({{site.baseurl}}/assets/img/Hawksworh_bres.jpeg){: style="display: block; height: 11cm;"}
+</span>
+Prof. Dr. J. Poelt, Tagungspräsident, im Gespräch mit A. Bresinsky
+<span class="images">
+![alt-text-1]({{site.baseurl}}/assets/img/FOURTH_INTERNATIONAL_MYCOLOGICAL_CONGRESS.jpeg){: style="height: 10cm;"}
+![alt-text-1]({{site.baseurl}}/assets/img/abstracts.jpeg){: style="height: 10cm;"}
+</span>
+links: Regensburg-Motiv auf Kongress-Postkarte von Guido Zingerl (1933 – 2023).- rechts: Cover des Bandes mit den Zusammenfassungen der Vorträge mit Bild aus Schaeffers, Icones Fungorum, qui .... circa Ratisbonam nascuntur: Cortinarius varius (Schaeff. 1774) Fr. 1838
 
-![alt-text-1]({{site.baseurl}}/assets/img/FOURTH_INTERNATIONAL_MYCOLOGICAL_CONGRESS.jpeg){: style="display: inline; height: 10cm;"}
-![alt-text-1]({{site.baseurl}}/assets/img/abstracts.jpeg){: style="display: inline; height: 10cm;"}
 
-Oben: Prof. Dr. J. Poelt, Tagungspräsident, im Gespräch mit A. Bresinsky
 
-Unten links: Regensburg-Motiv auf Kongress-Postkarte von Guido Zingerl (1933 – 2023).- Unten rechts: Cover des Bandes mit den Zusammenfassungen der Vorträge mit Bild aus Schaeffers, Icones Fungorum, qui .... circa Ratisbonam nascuntur: Cortinarius varius (Schaeff. 1774) Fr. 1838
 
 ### **Frontiers in Mycology. Honorary and General Lectures from the Fourth International Mycological Congress, Regensburg, Germany, 1990.** – Edited by D.L. Hawsksworth, CAB International
 

@@ -1,3 +1,29 @@
+{% assign sections = site.pages | sort: 'section' | group_by: 'section' %}
+{% for section in sections %}
+  {% if section.name != '' %}
+    {% assign items = section.items | sort: 'order' %}
+    
+      {% for pageObj in items %}
+        {% if pageObj.order > 0 %}
+          {% if currentPageFound == true %}
+            {% assign nextPageUrl = pageObj.url %}
+            {% assign nextPageTitle = pageObj.title %}
+            {% assign currentPageFound = false %}
+          {% endif %}
+          {% if pageObj.title == page.title %}
+          {% assign currentPageFound = true %}
+            {% if lastUrl %}
+              {% assign prevPageUrl = lastUrl %}
+              {% assign prevPageTitle = lastTitle %}
+            {% endif %}
+          {% endif %}
+          {% assign lastUrl = pageObj.url %}
+          {% assign lastTitle = pageObj.title %}
+        {% endif %}
+      {% endfor %}
+  {% endif %}
+{% endfor %}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -13,33 +39,6 @@
     {% include head-custom.html %}
   </head>
   <body>
-    {% assign sections = site.pages | sort: 'section' | group_by: 'section' %}
-    {% for section in sections %}
-      {% if section.name != '' %}
-        {% assign items = section.items | sort: 'order' %}
-        
-        {% if section.size > 1 %}
-          {% for pageObj in items %}
-            {% if pageObj.order > 0 %}
-              {% if currentPageFound == true %}
-                {% assign nextPageUrl = pageObj.url %}
-                {% assign nextPageTitle = pageObj.title %}
-                {% assign currentPageFound = false %}
-              {% endif %}
-              {% if pageObj.title == page.title %}
-              {% assign currentPageFound = true %}
-                {% if lastUrl %}
-                  {% assign prevPageUrl = lastUrl %}
-                  {% assign prevPageTitle = lastTitle %}
-                {% endif %}
-              {% endif %}
-              {% assign lastUrl = pageObj.url %}
-              {% assign lastTitle = pageObj.title %}
-            {% endif %}
-          {% endfor %}
-        {% endif %}  
-      {% endif %}
-    {% endfor %}
 
     <div class="wrapper">
       <header>
