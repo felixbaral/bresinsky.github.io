@@ -107,62 +107,41 @@ Regensburg (1 664 Teilnehmer aus 59 verschiedenen Ländern; siehe B) und der
 **1990: Publikation Bayerischer Florenatlas** (als Initiator und Mitorganisator der
 Kartierung zusammen mit P. Schönfelder und etwa 400 Mitarbeitenden)
 
-**1991:** Mitglied **Wissenschaftlicher Beirat der Waldschadensforschung** in
-Bayern
-
+**1991:** Mitglied **Wissenschaftlicher Beirat der Waldschadensforschung** in Bayern
 
 **1994:** Mitglied im **Naturschutzbeirat bei der Regierung der Oberpfalz**
 
-**1995 : Dekan der Fakultät Biologie und Vorklinische Medizin** (bis 199 7 ; frühere
-Amtsperiode 1979 - 1981 )
+**1995 : Dekan der Fakultät Biologie und Vorklinische Medizin** (bis 199 7 ; frühere Amtsperiode 1979 - 1981)
 
-**2000: Emeritierung** : Prof. em. der Universität Regensburg
+**2000: Emeritierung:** Prof. em. der Universität Regensburg
 
-**2001** , **2004:** Mitglied der **Evaluierungskommission** für biologische
-Studiengänge an den Universitäten in **Estland**
+**2001** , **2004:** Mitglied der **Evaluierungskommission** für biologische Studiengänge an den Universitäten in **Estland**
 
 **2004 , 2008** : **Gastdozent** an den beiden **Universitäten in Tartu, Estland**
 
-**2004: Giftnotruf** für Bayern in München: Sachverständiger Berater bei
-Pilzvergiftungen (bis 2021)
+**2004: Giftnotruf** für Bayern in München: Sachverständiger Berater bei Pilzvergiftungen (bis 2021)
 
 **2005: Datenbank PILZOEK** , Etablierung im Netz
 
-**2009:** Mitglied in der **Kommission für Ökologie** , **Bayerische Akademie der
-Wissenschaften** (bis 2020)
+**2009:** Mitglied in der **Kommission für Ökologie** , **Bayerische Akademie der Wissenschaften** (bis 2020)
 
-**Privates** :
-**Eltern** : **Vater** : Walter Bresinsky, Kaufmännischer Direktor.- **Mutter** : Gerda
-Bresinsky, geb. v. Riekhoff, Diplom (B.A.) Universität Tartu, Estland
+**Privates:**
 
-**Verehelichung** :
-**1961** : mit Christina Schroeder. Der Ehe entstammen 3 Söhne Thomas B. (geb.
+**Eltern:** **Vater:** Walter Bresinsky, Kaufmännischer Direktor.- **Mutter:** Gerda Bresinsky, geb. v. Riekhoff, Diplom (B.A.) Universität Tartu, Estland
 
-1962), Jan B. (geb. 1964) und Prof. Dr. Markus B. (geb. 1970)
+![alt-text-2]({{site.baseurl}}/assets/img/diplom.jpeg){: style="display: block; margin-left: auto; margin-right: auto; height: 12cm;"}
+
+<p class="borderedbox"><b>Universitätsdiplom</b> der Mutter, abgefasst in estnischer Sprache, dem heutigen Grad des Bachelors entsprechend.<br>
+<b>Übersetzung:</b>
+Republik Estland, Philosophische Fakultät Universität Tartu.
+Durch Beschluss und mit Genehmigung der Universitätsleitung vom 22. Mai 1931 wird bestätigt, dass <b>Gerda Aleksandra Bresinsky</b> an den erforderlichen Übungen und Seminaren teilgenommen und Prüfungen in den folgenden Fächern bestanden hat.- Germanische Philologie: laudatur.- Geschichte Estlands und der nordischen Länder, allgemeine Geschichte: cum laude.- Archäologie: approbatur. Das Prädikat Absolvent der Philosophischen Fakultät im Fachgebiet Germanische Philologie wird zuerkannt. Tartu, Juni 1931
+</p>
+
+**Verehelichung:**
+
+**1961** : mit Christina Schroeder. Der Ehe entstammen 3 Söhne Thomas B. (geb. 1962), Jan B. (geb. 1964) und Prof. Dr. Markus B. (geb. 1970)
 
 **1991** : mit Dr. Birgit Wittmann-Meixner. Der Verbindung entstammen 3 Söhne:
 
-Dr. Lysander B. (geb. 1989), Aiko-Nils B. (geb. 1991) und Dr. Merlin B. (geb.
-
-1992)
-
-```
-Universitätsdiplom der Mutter, abgefasst in
-estnischer Sprache, dem heutigen Grad des Bachelors
-entsprechend.
-Übersetzung :
-Republik Estland, Philosophische Fakultät Universität
-Tartu.
-Durch Beschluss und mit Genehmigung der
-Universitätsleitung vom 22. Mai 1931 wird bestätigt,
-dass Gerda Aleksandra Bresinsky an den
-erforderlichen Übungen und Seminaren teilgenommen
-und Prüfungen in den folgenden Fächern bestanden
-hat.- Germanische Philologie: laudatur.- Geschichte
-Estlands und der nordischen Länder, allgemeine
-Geschichte: cum laude.- Archäologie: approbatur. Das
-Prädikat Absolvent der Philosophischen Fakultät im
-Fachgebiet Germanische Philologie wird zuerkannt.
-Tartu, Juni 1931
-```
+Dr. Lysander B. (geb. 1989), Aiko-Nils B. (geb. 1991) und Dr. Merlin B. (geb. 1992)
 

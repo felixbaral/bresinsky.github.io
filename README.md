@@ -15,3 +15,5 @@
     - handschriftliche widmung
 
 - doktorarbeiten sind schriftgröße 12. soll das so sein?
+- Promotion (1960): andere schriftart??
+- was ist mit dem Eponym ding bei förderer. einfach zu dem einen dazu schrieben?

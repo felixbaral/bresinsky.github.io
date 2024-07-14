@@ -87,3 +87,19 @@ ul.inhalt ul li {
 .navigation_next {
     float: right;
 }
+
+.borderedbox {
+    padding: 5pt;
+    border: 1px solid black;
+    font-size: 12pt;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    // flex-direction: row;
+}
+.images img {
+    margin: 3pt 3pt;
+}

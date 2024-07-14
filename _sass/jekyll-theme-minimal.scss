@@ -129,6 +129,7 @@ kbd {
 header {
   display: block;
   -webkit-font-smoothing:subpixel-antialiased;
+  width: 100%;
 }
 
 ul.downloads {
@@ -195,6 +196,7 @@ section {
   display: block;
   padding-bottom:50px;
   margin-top: 30pt;
+  word-wrap: anywhere;
 }
 
 small {
@@ -225,7 +227,7 @@ footer {
   header, section, footer {
     float:none;
     position:static;
-    width:auto;
+    width:100%;
   }
 
   header {

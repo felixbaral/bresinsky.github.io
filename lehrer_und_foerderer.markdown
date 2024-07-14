@@ -8,8 +8,10 @@ order: 2
 
 ## A2) Akademische Lehrer und Förderer
 
-![alt-text-1]({{site.baseurl}}/assets/img/maegdefrau.jpeg){: style="display: inline; height: 8cm;"}
-![alt-text-2]({{site.baseurl}}/assets/img/merxmueller.png){: style="display: inline; height: 8cm;"}
+<span class="images">
+![alt-text-1]({{site.baseurl}}/assets/img/maegdefrau.jpeg){: style="height: 10cm;"}
+![alt-text-2]({{site.baseurl}}/assets/img/merxmueller.png){: style="height: 10cm;"}
+</span>
 
 Links: Prof. Dr. Karl Mägdefrau (1907 – 1999), Doktorvater von A. Bresinsky. - Rechts: Prof. Dr. Hermann Merxmüller (1920 – 1988), Betreuer der Habilitation
 
@@ -20,17 +22,28 @@ Deren akademischer Nachkomme u.a. Andreas **Bresinsky**
 **Promotion** (1960): Bau, Entwicklungsgeschichte und Inhaltsstoffe der Elaiosomen - Studien zur myrmekochoren Verbreitung von Samen und Früchten. Bibliotheca Botanica 126, 1963. 
 **Habilitation** (1964): Zur Kenntnis des circumalpinen Florenelementes im Vorland nördlich der Alpen. Ber. Bayer. Bot. Gesellschaft 38, 1965
 
-![alt-text-2]({{site.baseurl}}/assets/img/bresinsky.jpeg){: style="display: inline; height: 8cm;"}
+<span class="images">
+![alt-text-2]({{site.baseurl}}/assets/img/bresinsky.jpeg){:height: 10cm;"}
+</span>
 
 ### Förderer (außer den Eltern) seit der Schulzeit
 
-![alt-text-2]({{site.baseurl}}/assets/img/hansdoppelbaur.jpeg){: style="display: inline; height: 8cm;"}
-![alt-text-2]({{site.baseurl}}/assets/img/hannadoppelbaur.jpeg){: style="display: inline; height: 8cm;"}
+<span class="images">
+![alt-text-2]({{site.baseurl}}/assets/img/hansdoppelbaur.jpeg){: style="height: 10cm;"}
+![alt-text-2]({{site.baseurl}}/assets/img/hannadoppelbaur.jpeg){: style="height: 10cm;"}
+</span>
 
 Dr. Hans Doppelbaur (1927 – 1970), früher Förderer von A. Bresinsky, mit Ehefrau Dr. Hanna Doppelbaur (1928 – 1970), geb. Ernst
 
-![alt-text-2]({{site.baseurl}}/assets/img/hepp.png){: style="display: inline; height: 6cm;"}
-![alt-text-2]({{site.baseurl}}/assets/img/beinroth.jpeg){: style="display: inline; height: 6cm;"}
-![alt-text-2]({{site.baseurl}}/assets/img/poelt.jpeg){: style="display: inline; height: 6cm;"}
+<span class="images">
+![alt-text-2]({{site.baseurl}}/assets/img/beinroth.jpeg){: style="height: 9cm;"}
+![alt-text-2]({{site.baseurl}}/assets/img/hepp.png){: style="height: 9cm;"}
+![alt-text-2]({{site.baseurl}}/assets/img/poelt.jpeg){: style="height: 9cm;"}
+</span>
+
+<span class="borderedbox">
+Eponym:
+Galerina beinrothii Bresinsky 1966
+</span>
 
 Förderer: (von links nach rechts): Geheimrat Ernst Hepp (1878 – 1968; Bayerische Botanische Gesellschaft), Fritz Beinroth (1892 – 1958; Einführung in die Pilzkunde), Prof. Dr. Josef Poelt (1924 – 1995; Leiter der Kryptogamenabteilung in der Botanischen Staatssammlung München)
