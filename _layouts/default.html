@@ -1,3 +1,31 @@
+{% assign sections = site.pages | sort: 'section' | group_by: 'section' %}
+{% for section in sections %}
+  {% if section.name != '' %}
+    {% assign items = section.items | sort: 'order' %}
+    
+    {% if section.size > 1 %}
+      {% for pageObj in items %}
+        {% if pageObj.order > 0 %}
+          {% if currentPageFound == true %}
+            {% assign nextPageUrl = pageObj.url %}
+            {% assign nextPageTitle = pageObj.title %}
+            {% assign currentPageFound = false %}
+          {% endif %}
+          {% if pageObj.title == page.title %}
+            {% if lastUrl %}
+              {% assign prevPageUrl = lastUrl %}
+              {% assign prevPageTitle = lastTitle %}
+              {% assign currentPageFound = true %}
+            {% endif %}
+          {% endif %}
+          {% assign lastUrl = pageObj.url %}
+          {% assign lastTitle = pageObj.title %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}  
+  {% endif %}
+{% endfor %}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -15,22 +43,38 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
+        <div class="navigationbox">
+          <a class="navigation_bottom" href="{{site.baseurl}}/">↖︎ zum Inhaltsverzeichnis</a><br>
+          <a class="navigation_bottom navigation_next" href="{{ site.baseurl }}{{ nextPageUrl }}">{{ nextPageTitle }} →</a>
+          <a class="navigation_bottom" href="{{ site.baseurl }}{{ prevPageUrl }}">← {{ prevPageTitle }}</a>
+        </div>
       </header>
       <section>
 
       {{ content }}
 
       </section>
+
+      <div class="navigationbox">
+        <a class="navigation_bottom" href="{{site.baseurl}}/">↖︎ zum Inhaltsverzeichnis</a><br>
+        <a class="navigation_bottom navigation_next" href="{{ site.baseurl }}{{ nextPageUrl }}">{{ nextPageTitle }} →</a>
+        <a class="navigation_bottom" href="{{ site.baseurl }}{{ prevPageUrl }}">← {{ prevPageTitle }}</a>
+      </div>
+
+
+
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <p class="subtitle">
+        Andreas Bresinsky<br>
+        Soundsostraße 42<br>
+        12345 Regensburg und so<br>
+        <br>
+        Bei Fragen oder Anfragen melden Sie sich gerne bei mir direkt<br>
+        +49 123 4567890<br>
+        email@soundso.de<br>
+        </p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

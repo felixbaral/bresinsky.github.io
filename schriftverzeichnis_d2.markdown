@@ -6,7 +6,7 @@ section: 4
 order: 2
 ---
 
-## D2) Schriften 2000 - 2014**: siehe auch Im Umfeld zweier Weltkriege, 2. Teil, 2015,  573-577 
+## D2) Schriften 2000 - 2014: siehe auch Im Umfeld zweier Weltkriege, 2. Teil, 2015,  573-577 
 
 Bresinsky,  A.  (2000):  *Hebeloma  khogianum*  sp.  nov.,  *Hygrocybe  fibula*  sp.  nov.  et  autres macromycètes* de la Nouvelle-Calédonie. Bull. Soc. Mycol. Fr. 116: 217-229 
 

@@ -14,4 +14,4 @@ Bresinsky,  A.  (1991):  Die  Feier  des  zweihundertjährigen  Jubiläums  der 
 
 Bresinsky, A. (1999): Die Regensburgische Botanische Gesellschaft in den Jahren 1990- 1999. Hoppea 60: 725-740  
 
-Interview:** Montag, K. (2004): Dialog mit Prof. Dr. A. Bresinsky. Der Tintling 9(2): 18-27  
+Interview: Montag, K. (2004): Dialog mit Prof. Dr. A. Bresinsky. Der Tintling 9(2): 18-27  

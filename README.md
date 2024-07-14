@@ -13,3 +13,5 @@
 - kapitälchen erstmal nicht so wichtig
 - diese kästchen
     - handschriftliche widmung
+
+- doktorarbeiten sind schriftgröße 12. soll das so sein?

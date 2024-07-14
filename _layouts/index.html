@@ -16,15 +16,12 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-          {% endif %}
-          
+      </header>
+      
+      <div class="titleImage">
         <img src="{{site.baseurl}}/assets/img/bresinsky_by_helmut_wanner.jpeg" alt="title" />
-
-        Bildquelle: <a href="https://www.mittelbayerische.de/archiv/1">www.mittelbayerische.de</a> - Foto Helmut Wanner
-
+        <p class="subtitle">Bildquelle: <a href="https://www.mittelbayerische.de/archiv/1">www.mittelbayerische.de</a> - Foto Helmut Wanner</p>
+      </div>
 
         <ul class="inhalt">
           {% assign sections = site.pages | sort: 'section' | group_by: 'section' %}
@@ -51,7 +48,6 @@
           {% endfor %}
           </ul>
   
-      </header>
       <section>
 
       {{ content }}

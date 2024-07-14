@@ -6,7 +6,9 @@ section: 4
 order: 1
 ---
 
-### D1) Schriften 1958 – 1999, Auswahl: 
+## D) Schriftenverzeichnisse
+
+### D1) Schriften 1958 – 1999, Auswahl
 
 siehe auch Hoppea, Denkschriften der Regensburgischen Botanischen Gesellschaft 61: 9-26, 2000 (H. Besl, P. Schönfelder).  
 

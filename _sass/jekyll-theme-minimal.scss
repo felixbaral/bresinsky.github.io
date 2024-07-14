@@ -15,19 +15,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 h1, h2, h3 {
-  line-height:1.1;
+  line-height:1.4;
 }
 
 h1 {
-  font-size:28px;
+  font-size:24pt;
 }
 
 h2 {
   color:#393939;
+  font-size: 20pt;
+  margin-bottom: 20pt;
 }
 
 h3, h4, h5, h6 {
@@ -35,13 +37,19 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color: #0445AC;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  color:black;
+  //font-weight: bold;
+  background-color: #FAD508;
+  box-shadow: -3pt 0 0 #FAD508, 3pt 0 0 #FAD508; 
+}
+
+h1 a:hover, h1 a:focus {
+  box-shadow: -6pt 0 0 #FAD508, 6pt 0 0 #FAD508; 
 }
 
 a small {
@@ -186,6 +194,7 @@ strong {
 section {
   display: block;
   padding-bottom:50px;
+  margin-top: 30pt;
 }
 
 small {
@@ -200,8 +209,9 @@ hr {
 }
 
 footer {
+  margin-top: 30pt;
   display: block;
-  bottom:50px;
+  bottom:30pt;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 

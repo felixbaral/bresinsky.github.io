@@ -27,7 +27,7 @@ Belgard, Pommern. **Fortsetzung der Grundschulausbildung**
 Beendigung der Grundschule und Wechsel auf ein **Gymnasium** (Johanneum) in
 Lübeck
 
-**1 946:** Übersiedlung nach **Augsburg** in Bayern**.** Besuch der **Oberrealschule**
+**1946:** Übersiedlung nach **Augsburg** in Bayern**.** Besuch der **Oberrealschule**
 (jetzt Holbein-Gymnasium genannt) und außerschulische Weiterbildung in der
 dortigen **Naturforschenden Gesellschaft**
 
