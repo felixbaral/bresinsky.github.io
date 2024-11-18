@@ -45,13 +45,19 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
         <div class="navigationbox">
-          <a class="navigation_bottom" href="{{site.baseurl}}/">↖︎ zum Inhaltsverzeichnis</a><br>
-          {% if nextPageUrl %}
-          <a class="navigation_bottom navigation_next" href="{{ site.baseurl }}{{ nextPageUrl }}">{{ nextPageTitle }} →</a>
-          {% endif %}
           {% if prevPageUrl %}
-          <a class="navigation_bottom" href="{{ site.baseurl }}{{ prevPageUrl }}">← {{ prevPageTitle }}</a>
+          <a class="navigation_bottom" href="{{site.baseurl}}/">↖︎ zum Inhaltsverzeichnis</a><br>
           {% endif %}
+          <div class="flexboxnav">
+            {% if prevPageUrl %}
+            <a class="navigation_bottom" href="{{ site.baseurl }}{{ prevPageUrl }}">← {{ prevPageTitle }}</a>
+            {% else %}
+            <a class="navigation_bottom" href="{{site.baseurl}}/">↖︎ zum Inhaltsverzeichnis</a><br>
+            {% endif %}
+            {% if nextPageUrl %}
+            <a class="navigation_bottom right" href="{{ site.baseurl }}{{ nextPageUrl }}">{{ nextPageTitle }} →</a><br>
+            {% endif %}
+          </div>
         </div>
       </header>
       <section>
@@ -61,13 +67,19 @@
       </section>
 
       <div class="navigationbox">
-        <a class="navigation_bottom" href="{{site.baseurl}}/">↖︎ zum Inhaltsverzeichnis</a><br>
-        {% if nextPageUrl %}
-        <a class="navigation_bottom navigation_next" href="{{ site.baseurl }}{{ nextPageUrl }}">{{ nextPageTitle }} →</a>
-        {% endif %}
         {% if prevPageUrl %}
-        <a class="navigation_bottom" href="{{ site.baseurl }}{{ prevPageUrl }}">← {{ prevPageTitle }}</a>
+        <a class="navigation_bottom" href="{{site.baseurl}}/">↖︎ zum Inhaltsverzeichnis</a><br>
         {% endif %}
+        <div class="flexboxnav">
+          {% if prevPageUrl %}
+          <a class="navigation_bottom" href="{{ site.baseurl }}{{ prevPageUrl }}">← {{ prevPageTitle }}</a>
+          {% else %}
+          <a class="navigation_bottom" href="{{site.baseurl}}/">↖︎ zum Inhaltsverzeichnis</a><br>
+          {% endif %}
+          {% if nextPageUrl %}
+          <a class="navigation_bottom right" href="{{ site.baseurl }}{{ nextPageUrl }}">{{ nextPageTitle }} →</a><br>
+          {% endif %}
+        </div>
       </div>
 
 
