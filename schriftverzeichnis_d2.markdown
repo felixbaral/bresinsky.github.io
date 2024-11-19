@@ -20,6 +20,8 @@ Bresinsky, A., Kadereit, J. (2001): Systematik-Poster Botanik. 2. Aufl. Spektrum
 
 Bresinsky, A, (2001): Das Schicksal des Sippenauer Moores nach Abschluss des Verfahrens vor dem Bayerischen Verwaltungsgerichtshof. Hoppea, Denkschr. Regensb. Bot. Ges. 62: 367-391 
 
+Bresinsky, A. (2002): Streiflichter zur Geschichte der Naturwissenschaften in Bayern.Laudatio zum 200-jährigen Bestehen der Naturhistorischen Gesellschaft Nürnberg. 2000/2001 Natur und Mensch. Jahresmitteilungen der Naturhistorischen Gesellschaft, 5–14
+
 Binder, M., Bresinsky, A. (2002): Derivation of a polymorphic lineage of Gastromycetes from boletoid ancestors. Mycologia 94: 83-96 
 
 Sitte, P., Weiler, E., Kadereit, H.J., Bresinsky, A., Körner, C. (2002): Strasburger, Lehrbuch der Botanik. 35. Auflage, 1119 S., Spektrum, Heidelberg. Mitwirkung von A. Bresinsky seit 32. Aufl. für den Abschnitt Evolution und Systematik: hier Bakterien, Pilze, Niedere Pflanzen (bis einschließlich Farnpflanzen, S. 581-750)  

@@ -6,19 +6,19 @@ section: 4
 order: 1
 ---
 
-## D) Schriftenverzeichnisse
+# D) Schriftenverzeichnisse
 
-### D1) Schriften 1958 – 1999, Auswahl
+## D1) Schriften 1958 – 1999, Auswahl
 
 siehe auch Hoppea, Denkschriften der Regensburgischen Botanischen Gesellschaft 61: 9-26, 2000 (H. Besl, P. Schönfelder).  
 
-#### Nachträge: 
+### Nachträge
 
 Bresinsky, A. (1989): Artenschutz Niederer Pflanzen. Laufener Seminarbeiträge 2: 49-58 
 
 Reisinger, A. und Bresinsky, A. (1990) [*Abstracts Fourth International Mycological Congress IMC 4 : opening lecture, honorary lecture, general lectures, oral presentation and posters presented at the Congress Regensburg, Germany 28th August - 3rd September 1990*](https://epub.uni-regensburg.de/32935/) Regensburg.
 
-**Auf dem Weg zum Bayerischen Florenatlas**: 
+### Auf dem Weg zum Bayerischen Florenatlas
 
 Bresinsky, A. (1966) [*Neue Methoden zur floristischen Erforschung Bayerns.*](https://epub.uni-regensburg.de/32687/) Berichte der Bayerischen Botanischen Gesellschaft 39, S. 29-34.  
 
@@ -62,7 +62,7 @@ Bresinsky, A. und Schönfelder, P. (1984) [*Kurzmitteilungen zur floristischen K
 
 Schönfelder, P., Bresinsky, A. (Herausg.; 1990) [*Verbreitungsatlas der Farn- und Blütenpflanzen Bayerns : für die Bayerische Botanische Gesellschaft zum 100jährigen Jubiläum und die Regensburgische Botanische Gesellschaft zum 200jährigen Jubiläum.*](https://epub.uni-regensburg.de/32936/) Ulmer, Stuttgart. ISBN 3-8001-3455-1. 
 
-#### **Arbeiten zur Chemie der Pilze**:** 
+### **Arbeiten zur Chemie der Pilze**:** 
 
 Bresinsky, A. und Orendi, P. (1970) [*Chromatographische Analyse von Farbmerkmalen der Boletales und anderer Makromyzeten auf Dünnschichten.*](https://epub.uni-regensburg.de/32606/) Zeitschrift für Pilzkunde : ZfP 36, S. 135-169.  
 
@@ -120,7 +120,7 @@ W. (1989) [*Flavomentine und Spiromentine, neue Terphenylchinon-Derivate aus "Pa
 
 Besl, H. und Bresinsky, A. (1997) [*Chemosystematics of Suillaceae and Gomphidiaceae (suborder Suillineae).*](https://epub.uni-regensburg.de/32988/) Plant systematics and evolution = Entwicklungsgeschichte und Systematik der Pflanzen 206, S. 223-242.  
 
-#### Arbeiten zur Polyploidie und DNA-Analytik: 
+### Arbeiten zur Polyploidie und DNA-Analytik: 
 
 Bresinsky, A., Wittmann-Meixner, B., Weber, E. und Fischer, M. (1987) [*Karyologische Untersuchungen an Pilzen mittels Fluoreszenzmikroskopie.*](https://epub.uni-regensburg.de/32625/) Zeitschrift für Mykologie 53, S. 303-318.  
 

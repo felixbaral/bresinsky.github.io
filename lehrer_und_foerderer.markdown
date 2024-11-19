@@ -33,17 +33,16 @@ Deren akademischer Nachkomme u.a. Andreas **Bresinsky**
 ![alt-text-2]({{site.baseurl}}/assets/img/hannadoppelbaur.jpeg){: style="height: 10cm;"}
 </span>
 
+<p style="text-align: center;">
 Dr. Hans Doppelbaur (1927 – 1970), früher Förderer von A. Bresinsky, mit Ehefrau Dr. Hanna Doppelbaur (1928 – 1970), geb. Ernst
+</p>
 
 <span class="images">
-![alt-text-2]({{site.baseurl}}/assets/img/beinroth.jpeg){: style="height: 9cm;"}
 ![alt-text-2]({{site.baseurl}}/assets/img/hepp.png){: style="height: 9cm;"}
+![alt-text-2]({{site.baseurl}}/assets/img/beinroth.jpeg){: style="height: 9cm;"}
 ![alt-text-2]({{site.baseurl}}/assets/img/poelt.jpeg){: style="height: 9cm;"}
 </span>
 
-<span class="borderedbox">
-Eponym:
-Galerina beinrothii Bresinsky 1966
-</span>
-
-Förderer: (von links nach rechts): Geheimrat Ernst Hepp (1878 – 1968; Bayerische Botanische Gesellschaft), Fritz Beinroth (1892 – 1958; Einführung in die Pilzkunde), Prof. Dr. Josef Poelt (1924 – 1995; Leiter der Kryptogamenabteilung in der Botanischen Staatssammlung München)
+<p style="text-align: center;">
+Förderer: (von links nach rechts): Geheimrat Ernst Hepp (1878 – 1968; Bayerische Botanische Gesellschaft), Fritz Beinroth (1892 – 1958; Einführung in die Pilzkunde) (Eponym: Galerina beinrothii Bresinsky 1966), Prof. Dr. Josef Poelt (1924 – 1995; Leiter der Kryptogamenabteilung in der Botanischen Staatssammlung München)
+</p>

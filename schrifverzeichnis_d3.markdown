@@ -66,6 +66,8 @@ Wittmann-Bresinsky, B., Bresinsky, A. (2023): Der Fliegenpilz und die Hochzeit i
 
 Wittmann-Bresinsky, B., Bresinsky, A. (2023): Sagt wer mag das Männlein sein … Der Tintling 28 (2): 61- 66   
 
-Bresinsky, A. (2023:  Namensgebung für Pilze – Anstößiges, Zwiespältiges, Informatives. Der Tintling 28 (4): 53-60 
+Bresinsky, A. (2023):  Namensgebung für Pilze – Anstößiges, Zwiespältiges, Informatives. Der Tintling 28 (4): 53-60 
 
-Bresinsky, A. (2023):: Pilzforschung in Regensburg von den Anfängen bis zur Gegenwart. Hoppea, Denkschriften der Regensburgischen Botanischen Gesellschaft 83: 59 -86 
+Bresinsky, A. (2023) Pilzforschung in Regensburg von den Anfängen bis zur Gegenwart. Hoppea, Denkschriften der Regensburgischen Botanischen Gesellschaft 83: 59 -86 
+
+Bresinsky, A. (2024): Gefäßpflanzenfloren für Bayern im historischen Rückblick. In Meierott, L.& al. (2024), Flora von Bayern 1: 1–12, Haupt Verlag, Bern

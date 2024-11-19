@@ -4,6 +4,7 @@
 body {
   background-color: #fff;
   padding:50px;
+  padding-top: 0px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -19,7 +20,8 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3 {
-  line-height:1.4;
+  line-height:1.3;
+  margin-top: 30pt;
 }
 
 h1 {
@@ -194,8 +196,8 @@ strong {
 
 section {
   display: block;
-  padding-bottom:50px;
-  margin-top: 30pt;
+  padding-bottom:20px;
+  margin-top: 10pt;
   word-wrap: anywhere;
 }
 
@@ -211,7 +213,6 @@ hr {
 }
 
 footer {
-  margin-top: 30pt;
   display: block;
   bottom:30pt;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -234,12 +235,12 @@ footer {
     padding-right:320px;
   }
 
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
-  }
+  // section {
+  //   border:1px solid #e5e5e5;
+  //   border-width:1px 0;
+  //   padding:20px 0;
+  //   margin:0 0 20px;
+  // }
 
   header a small {
     display:inline;

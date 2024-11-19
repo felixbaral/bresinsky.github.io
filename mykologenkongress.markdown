@@ -29,12 +29,13 @@ Prof. Dr. J. Poelt, Tagungspräsident, im Gespräch mit A. Bresinsky
 </span>
 links: Regensburg-Motiv auf Kongress-Postkarte von Guido Zingerl (1933 – 2023).- rechts: Cover des Bandes mit den Zusammenfassungen der Vorträge mit Bild aus Schaeffers, Icones Fungorum, qui .... circa Ratisbonam nascuntur: Cortinarius varius (Schaeff. 1774) Fr. 1838
 
+<div class="artikelstyle" markdown="1">
 
+### **Frontiers in Mycology. Honorary and General Lectures from the Fourth International Mycological Congress, Regensburg, Germany, 1990.** 
+– Edited by D.L. Hawsksworth, CAB International
 
-
-### **Frontiers in Mycology. Honorary and General Lectures from the Fourth International Mycological Congress, Regensburg, Germany, 1990.** – Edited by D.L. Hawsksworth, CAB International
-
-### **Frontlinien der Mykologie. Ehrenvorträge und Plenarvorträge auf dem vierten internationalen Mykologenkongress, Regensburg, Deutschland, 1990.** - Übersetzung des Vorwortes ins Deutsche durch B. Wittmann-Bresinsky
+### **Frontlinien der Mykologie. Ehrenvorträge und Plenarvorträge auf dem vierten internationalen Mykologenkongress, Regensburg, Deutschland, 1990.** 
+– Übersetzung des Vorwortes ins Deutsche durch B. Wittmann-Bresinsky
 
 Die Mykologie, das wissenschaftliche Studium der Pilze, ist für eine enorme Bandbreite von Aspekten menschlicher Bestrebungen und Untersuchungen von Bedeutung. Infolgedessen entwickelt sich das Thema in vielfältigen Bereichen rasch weiter. Gleichzeitig werden die Informationen zunehmend weit verstreut veröffentlicht, so dass sowohl Forschende als auch Dozenten an Hochschulen und Universitäten immer mehr Bedarf an zuverlässigen Übersichten haben. Die internationalen Mykologie-Kongresse, die unter der Schirmherrschaft der International Mycological Association (IMA) stattfinden, bieten einen einzigartigen Überblick über den aktuellen Stand der reinen und angewandten Mykologie in aller Welt. Der Vierte Internationale Mykologen-Kongress (IMC4), der vom 28. August bis 3. September 1990 an der Universität Regensburg in Deutschland stattfand, bildete keine Ausnahme. Mit fast 1700 Teilnehmern aus 59 Ländern war dies der größte IMC, der bisher stattgefunden hatte.
 
@@ -117,3 +118,4 @@ Es gab nichts zu beanstanden, außer vielleicht einer gewissen Übersättigung d
 Zwischen dem vorausgegangenen Kongress in Tokio (IMC 3, 1983) und dem jetzigen Kongress in Regensburg (IMC 4, 1990) hat die Mykologie mehrere ihrer führenden Köpfe verloren: C. J. Alexopoulos, J. N. Couch, J. A. Nannfeldt, Kenneth B. Raper, Lindsay Olive, Philip H. Gregory, S. D. Garrett, , E. S. Luttrell, J. A. von Arx. Ihrer wurde ehrenvoll gedacht.
 
 Viele junge Mykologen aus der ganzen Welt nahmen an dem Kongress in Regensburg teil, und es war eine Freude, nicht nur alte Freunde zu treffen, sondern auch neue Freunde aus fernen Ländern zu gewinnen, in denen es viele schöne Pilze gibt. Und es besteht kein Zweifel daran, dass die gebotene wissenschaftliche Qualität des Kongresses hervorragend war.
+</div>
