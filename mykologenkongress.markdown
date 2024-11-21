@@ -22,12 +22,12 @@ Handschriftliche Widmung des Herausgebers D.L. Hawksworh für Andreas Bresinsky 
 <span class="images">
 ![alt-text-1]({{site.baseurl}}/assets/img/Hawksworh_bres.jpeg){: style="display: block; height: 11cm;"}
 </span>
-Prof. Dr. J. Poelt, Tagungspräsident, im Gespräch mit A. Bresinsky
+<p style="text-align: center;">Prof. Dr. J. Poelt, Tagungspräsident, im Gespräch mit A. Bresinsky</p>
 <span class="images">
 ![alt-text-1]({{site.baseurl}}/assets/img/FOURTH_INTERNATIONAL_MYCOLOGICAL_CONGRESS.jpeg){: style="height: 10cm;"}
 ![alt-text-1]({{site.baseurl}}/assets/img/abstracts.jpeg){: style="height: 10cm;"}
 </span>
-links: Regensburg-Motiv auf Kongress-Postkarte von Guido Zingerl (1933 – 2023).- rechts: Cover des Bandes mit den Zusammenfassungen der Vorträge mit Bild aus Schaeffers, Icones Fungorum, qui .... circa Ratisbonam nascuntur: Cortinarius varius (Schaeff. 1774) Fr. 1838
+<p style="text-align: center;">links: Regensburg-Motiv auf Kongress-Postkarte von Guido Zingerl (1933 – 2023).<br>rechts: Cover des Bandes mit den Zusammenfassungen der Vorträge mit Bild aus Schaeffers, Icones Fungorum, qui .... circa Ratisbonam nascuntur: Cortinarius varius (Schaeff. 1774) Fr. 1838</p>
 
 <div class="artikelstyle" markdown="1">
 

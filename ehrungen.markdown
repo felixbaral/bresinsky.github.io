@@ -12,6 +12,7 @@ order: 5
 
 
 - **1974**: Ehrenmitgliedschaft: **Bayerische Botanische Gesellschaft**
+- **1979**: Ehrenmitgliedschaft: **Naturforschende Gesellschaft Augsburg**
 - **1992**: **Bundesverdienstkreuz am Bande**
 - **1998**: **Ehrenvorsitz: Regensburgische Botanische Gesellschaft.-** Ehrenmitgliedschaft: Naturwissenschaftlicher Verein Regensburg
 - **2001**: Ehrenmitgliedschaft: **Polnische Botanische Gesellschaft**
