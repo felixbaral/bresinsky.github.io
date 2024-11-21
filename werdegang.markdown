@@ -10,6 +10,8 @@ order: 1
 
 ## A1) Lebenslauf und beruflicher Werdegang
 
+BRESINSKY, A.: Im Umfeld zweier Weltkriege.  Teil 1: Leben bis einschließlich 1939, 361 S., 2005, Verlag Dr, Kovač.- Teil 2: Leben ab 1939, 594 S, 2015, Eigenverlag.
+
 **19. Januar 1935:** Geburt in **Reval /Tallinn, Estland** als Deutschbalte mit
 estnischer Staatsbürgerschaft
 
